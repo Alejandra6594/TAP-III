@@ -40,10 +40,10 @@ public class CalculadoraGUI extends Frame implements ActionListener {
         this.add(bottomPanel);
 
         // Contruccion de la ventana
-        this.setSize(300,600);
+        this.setSize(400,600);
         this.setVisible(true);
         this.setResizable(false);
-        this.setTitle("Calculadora");
+        this.setTitle("Calculadora Simple");
         this.setLocationRelativeTo(null);
 
         numberOne.addActionListener(this);
