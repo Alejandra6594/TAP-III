@@ -105,16 +105,16 @@ public class CalculadoraGUI extends Frame implements ActionListener {
         numberNine = new Button("\u0039");
         numberZero = new Button("\u0030");
 
-        numberOne.setBackground(new Color(174, 214, 241));
-        numberTwo.setBackground(new Color(174, 214, 241));
-        numberThree.setBackground(new Color(174, 214, 241));
-        numberFour.setBackground(new Color(174, 214, 241));
-        numberFive.setBackground(new Color(174, 214, 241));
-        numberSix.setBackground(new Color(174, 214, 241));
-        numberSeven.setBackground(new Color(174, 214, 241));
-        numberEight.setBackground(new Color(174, 214, 241));
-        numberNine.setBackground(new Color(174, 214, 241));
-        numberZero.setBackground(new Color(174, 214, 241));
+        numberOne.setBackground(new Color(204, 204, 0));
+        numberTwo.setBackground(new Color(204, 204, 0));
+        numberThree.setBackground(new Color(204, 204, 0));
+        numberFour.setBackground(new Color(204, 204, 0));
+        numberFive.setBackground(new Color(204, 204, 0));
+        numberSix.setBackground(new Color(204, 204, 0));
+        numberSeven.setBackground(new Color(204, 204, 0));
+        numberEight.setBackground(new Color(204, 204, 0));
+        numberNine.setBackground(new Color(204, 204, 0));
+        numberZero.setBackground(new Color(204, 204, 0));
 
         buttonPoint = new Button(".");
         buttonEqual = new Button("\u003D");
@@ -172,7 +172,7 @@ public class CalculadoraGUI extends Frame implements ActionListener {
             }
 
             public void mouseExited(MouseEvent e) {
-                buttonType.setBackground(new Color(174, 214, 241));
+                buttonType.setBackground(new Color(204, 204, 0));
                 buttonType.setForeground(Color.BLACK);
             }
         });
