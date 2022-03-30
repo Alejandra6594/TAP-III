@@ -1,0 +1,17 @@
+C:\Users\pumas\Documents\GitHub\TAP-III\Carlos_Isidoro_Hernandez_Rodriguez_7046\Prácticas\Práctica 1\C#\CalculadoraGUI\obj\Debug\net6.0-windows\CalculadoraGUI.csproj.AssemblyReference.cache
+C:\Users\pumas\Documents\GitHub\TAP-III\Carlos_Isidoro_Hernandez_Rodriguez_7046\Prácticas\Práctica 1\C#\CalculadoraGUI\obj\Debug\net6.0-windows\CalculadoraGUI.Calculadora.resources
+C:\Users\pumas\Documents\GitHub\TAP-III\Carlos_Isidoro_Hernandez_Rodriguez_7046\Prácticas\Práctica 1\C#\CalculadoraGUI\obj\Debug\net6.0-windows\CalculadoraGUI.csproj.GenerateResource.cache
+C:\Users\pumas\Documents\GitHub\TAP-III\Carlos_Isidoro_Hernandez_Rodriguez_7046\Prácticas\Práctica 1\C#\CalculadoraGUI\obj\Debug\net6.0-windows\CalculadoraGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pumas\Documents\GitHub\TAP-III\Carlos_Isidoro_Hernandez_Rodriguez_7046\Prácticas\Práctica 1\C#\CalculadoraGUI\obj\Debug\net6.0-windows\CalculadoraGUI.AssemblyInfoInputs.cache
+C:\Users\pumas\Documents\GitHub\TAP-III\Carlos_Isidoro_Hernandez_Rodriguez_7046\Prácticas\Práctica 1\C#\CalculadoraGUI\obj\Debug\net6.0-windows\CalculadoraGUI.AssemblyInfo.cs
+C:\Users\pumas\Documents\GitHub\TAP-III\Carlos_Isidoro_Hernandez_Rodriguez_7046\Prácticas\Práctica 1\C#\CalculadoraGUI\obj\Debug\net6.0-windows\CalculadoraGUI.csproj.CoreCompileInputs.cache
+C:\Users\pumas\Documents\GitHub\TAP-III\Carlos_Isidoro_Hernandez_Rodriguez_7046\Prácticas\Práctica 1\C#\CalculadoraGUI\bin\Debug\net6.0-windows\CalculadoraGUI.exe
+C:\Users\pumas\Documents\GitHub\TAP-III\Carlos_Isidoro_Hernandez_Rodriguez_7046\Prácticas\Práctica 1\C#\CalculadoraGUI\bin\Debug\net6.0-windows\CalculadoraGUI.deps.json
+C:\Users\pumas\Documents\GitHub\TAP-III\Carlos_Isidoro_Hernandez_Rodriguez_7046\Prácticas\Práctica 1\C#\CalculadoraGUI\bin\Debug\net6.0-windows\CalculadoraGUI.runtimeconfig.json
+C:\Users\pumas\Documents\GitHub\TAP-III\Carlos_Isidoro_Hernandez_Rodriguez_7046\Prácticas\Práctica 1\C#\CalculadoraGUI\bin\Debug\net6.0-windows\CalculadoraGUI.dll
+C:\Users\pumas\Documents\GitHub\TAP-III\Carlos_Isidoro_Hernandez_Rodriguez_7046\Prácticas\Práctica 1\C#\CalculadoraGUI\bin\Debug\net6.0-windows\CalculadoraGUI.pdb
+C:\Users\pumas\Documents\GitHub\TAP-III\Carlos_Isidoro_Hernandez_Rodriguez_7046\Prácticas\Práctica 1\C#\CalculadoraGUI\obj\Debug\net6.0-windows\CalculadoraGUI.dll
+C:\Users\pumas\Documents\GitHub\TAP-III\Carlos_Isidoro_Hernandez_Rodriguez_7046\Prácticas\Práctica 1\C#\CalculadoraGUI\obj\Debug\net6.0-windows\refint\CalculadoraGUI.dll
+C:\Users\pumas\Documents\GitHub\TAP-III\Carlos_Isidoro_Hernandez_Rodriguez_7046\Prácticas\Práctica 1\C#\CalculadoraGUI\obj\Debug\net6.0-windows\CalculadoraGUI.pdb
+C:\Users\pumas\Documents\GitHub\TAP-III\Carlos_Isidoro_Hernandez_Rodriguez_7046\Prácticas\Práctica 1\C#\CalculadoraGUI\obj\Debug\net6.0-windows\CalculadoraGUI.genruntimeconfig.cache
+C:\Users\pumas\Documents\GitHub\TAP-III\Carlos_Isidoro_Hernandez_Rodriguez_7046\Prácticas\Práctica 1\C#\CalculadoraGUI\obj\Debug\net6.0-windows\ref\CalculadoraGUI.dll
